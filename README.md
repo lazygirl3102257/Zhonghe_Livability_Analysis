@@ -23,4 +23,6 @@
   - 生活機能雷達圖(對比不同地段的便利程度)
   - 環境品質條形圖(按地段顥示空氣品質和綠化比例)
   - 使用地理可視化工具(如’folium’或’geopandas’)，呈現地段和房價，機能等多屬性圖層。
+* 成果報告\
+https://docs.google.com/presentation/d/1_9FrTh6vr-1VJc8svNmeiUzhOEGTYh871EKbt28TVIk/edit?slide=id.p#slide=id.p
 
